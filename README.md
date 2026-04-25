@@ -40,4 +40,16 @@ I build full-stack web applications using the MERN stack, practice DSA in C++, a
 
 **Profiles**
 
-<a href="https://www.linkedin.com/in/aditya-kokate03"><img src="https://skillicons.dev/icons?i=linkedin" height="28" /></a> <a href="https://leetcode.com/u/adityakokate/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="28" /></a> <a href="https://www.geeksforgeeks.org/profile/adityavkqeqg"><img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" height="28" /></a> <a href="mailto:adityavkokate03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="28" /></a>
+<p>
+<a href="https://www.linkedin.com/in/aditya-kokate03">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/adityakokate/">
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="32" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.geeksforgeeks.org/profile/adityavkqeqg">
+  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="32" />
+</a>
+</p>
