@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adityakokate03/adityakokate03/main/banner.png" width="100%"/>
-</p>
-
 ### Aditya Kokate
 
 Computer Engineering Student · Dr. D.Y. Patil Institute of Technology, Pune · 2023–2027
